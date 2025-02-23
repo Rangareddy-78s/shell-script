@@ -9,5 +9,9 @@ else if [$No1 -lt $No2]
 then
 echo "$No1 less than $No2"
 else if [$No1 -eq $No2]
+then
 echo "$No1 equals to $No2"
+else 
+then
+echo "Need to check"
 fi
