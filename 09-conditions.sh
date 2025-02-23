@@ -10,4 +10,4 @@ then
 echo "$No1 less than $No2"
 else if [$No1 -eq $No2]
 echo "$No1 equals to $No2"
-fi 
+fi
