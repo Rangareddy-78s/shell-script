@@ -1,6 +1,6 @@
 #! /bin/bash
 movies=("DJ","F2","Fun")
 
-echo "My first Movie: ${movies[0] }"
-echo "My second Movie: ${movies[1] }"
-echo "My third Movie: ${movies[@] }"
+echo "My first Movie: ${movies[0]}"
+echo "My second Movie: ${movies[1]}"
+echo "My third Movie: ${movies[@]}"
