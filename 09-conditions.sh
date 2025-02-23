@@ -12,6 +12,5 @@ elif [$No1 -eq $No2]
 then
 echo "$No1 equals to $No2"
 else 
-then
 echo "Need to check"
 fi
