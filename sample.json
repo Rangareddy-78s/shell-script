@@ -1,0 +1,12 @@
+{
+  "name": "Rangareddy",
+  "age": 30,
+  "email": "rangareddy@example.com",
+  "skills": ["Python", "Machine Learning", "Git"],
+  "is_active": true,
+  "address": {
+    "street": "123 Main Street",
+    "city": "Hyderabad",
+    "zip": "500001"
+  }
+}
